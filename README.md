@@ -13,4 +13,4 @@
 - [x] [#9 - Tesseract](9-tesseract.html)
 - [ ] #10 - Cloaked Spirits
 - [x] [#11 - Eye of Sauron](11-eye-of-sauron.html)
-- [ ] #12 - Wiggly Moustache
+- [x] [#12 - Wiggly Moustache](12-wiggly-moustache.html)
