@@ -8,7 +8,7 @@
 - [x] [#4 - Up n Downs](4-up-n-downs.html)
 - [x] [#5 - Acid Rain](5-acid-rain.html)
 - [x] [#6 - Missing Slice](6-missing-slice.html)
-- [ ] #7 - Leafy Trail
+- [x] [#7 - Leafy Trail](7-leafy-trail.html)
 - [ ] #8 - Forking Crazy
 - [x] [#9 - Tesseract](9-tesseract.html)
 - [ ] #10 - Cloaked Spirits
