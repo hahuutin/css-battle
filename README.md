@@ -6,7 +6,7 @@
 - [x] [#2 - Carrom](2-carrom.html)
 - [x] [#3 - Push Button](3-push-button.html)
 - [x] [#4 - Up n Downs](4-up-n-downs.html)
-- [ ] #5 - Acid Rain
+- [x] [#5 - Acid Rain](5-acid-rain.html)
 - [ ] #6 - Missing Slice
 - [ ] #7 - Leafy Trail
 - [ ] #8 - Forking Crazy
