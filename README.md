@@ -2,5 +2,4 @@
 
 # CSS Battle
 
-1. [ ]()
-2. [ ]()
+1. [Simply Square](1-simply-square.html)
