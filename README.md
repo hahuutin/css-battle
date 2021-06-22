@@ -10,7 +10,7 @@
 - [ ] #6 - Missing Slice
 - [ ] #7 - Leafy Trail
 - [ ] #8 - Forking Crazy
-- [ ] #9 - Tesseract
+- [x] [#9 - Tesseract](9-tesseract.html)
 - [ ] #10 - Cloaked Spirits
 - [ ] #11 - Eye of Sauron
 - [ ] #12 - Wiggly Moustache
