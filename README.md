@@ -4,7 +4,7 @@
 
 - [x] [#1 - Simply Square](1-simply-square.html)
 - [x] [#2 - Carrom](2-carrom.html)
-- [ ] #3 - Push Button
+- [x] [#3 - Push Button](3-push-button.html)
 - [ ] #4 - Up n Downs
 - [ ] #5 - Acid Rain
 - [ ] #6 - Missing Slice
