@@ -7,7 +7,7 @@
 - [x] [#3 - Push Button](3-push-button.html)
 - [x] [#4 - Up n Downs](4-up-n-downs.html)
 - [x] [#5 - Acid Rain](5-acid-rain.html)
-- [ ] #6 - Missing Slice
+- [x] [#6 - Missing Slice](6-missing-slice.html)
 - [ ] #7 - Leafy Trail
 - [ ] #8 - Forking Crazy
 - [x] [#9 - Tesseract](9-tesseract.html)
