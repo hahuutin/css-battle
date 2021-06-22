@@ -12,5 +12,5 @@
 - [ ] #8 - Forking Crazy
 - [x] [#9 - Tesseract](9-tesseract.html)
 - [ ] #10 - Cloaked Spirits
-- [ ] #11 - Eye of Sauron
+- [x] [#11 - Eye of Sauron](11-eye-of-sauron.html)
 - [ ] #12 - Wiggly Moustache
