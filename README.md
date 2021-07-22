@@ -11,6 +11,6 @@
 - [x] [#7 - Leafy Trail](7-leafy-trail.html)
 - [ ] #8 - Forking Crazy
 - [x] [#9 - Tesseract](9-tesseract.html)
-- [x] [#10 - Cloaked Spirits](10-cloaked-spirits.html)
+- [x] [#10 - Cloaked Spirits](10-cloaked-spirits/index.html)
 - [x] [#11 - Eye of Sauron](11-eye-of-sauron.html)
 - [x] [#12 - Wiggly Moustache](12-wiggly-moustache.html)
