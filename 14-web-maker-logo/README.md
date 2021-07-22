@@ -2,8 +2,8 @@
 
 | High Score | Chars | Match |
 | ---------- | ----- | ----- |
-| 716.98     | 129   | 100%  |
+| 615.22     | 343   | 100%  |
 
 ## Screenshot
 
-![13-totally-triangle](screenshot.png)
+![14-web-maker-logo](screenshot.png)
