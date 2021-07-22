@@ -2,6 +2,8 @@
 
 # CSS Battle
 
+### #1 - Pilot Battle
+
 - [x] [#1 - Simply Square](1-simply-square)
 - [x] [#2 - Carrom](2-carrom)
 - [x] [#3 - Push Button](3-push-button)
@@ -14,3 +16,7 @@
 - [x] [#10 - Cloaked Spirits](10-cloaked-spirits)
 - [x] [#11 - Eye of Sauron](11-eye-of-sauron)
 - [x] [#12 - Wiggly Moustache](12-wiggly-moustache)
+
+### #2 - Visibility
+
+- [x] [#13 - Totally Triangle](13-totally-triangle)
