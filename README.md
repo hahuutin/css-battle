@@ -9,7 +9,7 @@
 - [x] [#5 - Acid Rain](5-acid-rain)
 - [x] [#6 - Missing Slice](6-missing-slice)
 - [x] [#7 - Leafy Trail](7-leafy-trail)
-- [ ] #8 - Forking Crazy
+- [x] [#8 - Forking Crazy](8-forking-crazy)
 - [x] [#9 - Tesseract](9-tesseract)
 - [x] [#10 - Cloaked Spirits](10-cloaked-spirits)
 - [x] [#11 - Eye of Sauron](11-eye-of-sauron)
