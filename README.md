@@ -23,7 +23,7 @@
 - [x] [#14 - Web Maker Logo](14-web-maker-logo)
 - [x] [#15 - Overlap](15-overlap)
 - [x] [#16 - Eye of the Tiger](16-eye-of-the-tiger)
-- [ ] #17 - Fidget Spinner
+- [x] [#17 - Fidget Spinner](17-fidget-spinner)
 - [ ] #18 - Matrix
 
 ### Battle #3 - Cursor
