@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.svgporn.com/logos/css-3.svg" />
+<p align="center"><img src="https://cdn.svgporn.com/logos/css-3.svg" /></p>
 
 # CSS Battle
 
