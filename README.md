@@ -24,7 +24,7 @@
 - [x] [#15 - Overlap](15-overlap)
 - [x] [#16 - Eye of the Tiger](16-eye-of-the-tiger)
 - [x] [#17 - Fidget Spinner](17-fidget-spinner)
-- [ ] #18 - Matrix
+- [x] [#18 - Matrix](18-matrix)
 
 ### Battle #3 - Cursor
 
