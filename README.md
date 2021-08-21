@@ -28,7 +28,7 @@
 
 ### Battle #3 - Cursor
 
-- [ ] #19 - Cube
+- [x] [#19 - Cube](19-cube)
 - [ ] #20 - Ticket
 
 ### Battle #4 - Display
