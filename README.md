@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cdn.svgporn.com/logos/css-3.svg" /></p>
 
-# CSS Battle
+<h1 align="center">CSS Battles</h1>
 
 ### Battle #1 - Pilot Battle
 
