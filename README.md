@@ -40,7 +40,7 @@
 - [x] [#25 - Blossom](25-blossom)
 - [x] [#26 - Smiley](26-smiley)
 - [x] [#27 - Lock Up](27-lock-up)
-- [ ] #28 - Cups & Balls
+- [x] [#28 - Cups & Balls](28-cups-and-balls)
 
 ### Battle #5 - Inline
 
