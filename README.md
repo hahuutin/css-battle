@@ -35,7 +35,7 @@
 
 - [x] [#21 - SitePoint Logo](21-sitepoint-logo)
 - [x] [#22 - Cloud](22-cloud)
-- [ ] #23 - Boxception
+- [x] [#23 - Boxception](23-boxception)
 - [ ] #24 - Switches
 - [ ] #25 - Blossom
 - [ ] #26 - Smiley
