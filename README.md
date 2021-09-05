@@ -38,7 +38,7 @@
 - [x] [#23 - Boxception](23-boxception)
 - [x] [#24 - Switches](24-switches)
 - [x] [#25 - Blossom](25-blossom)
-- [ ] #26 - Smiley
+- [x] [#26 - Smiley](26-smiley)
 - [ ] #27 - Lock Up
 - [ ] #28 - Cups & Balls
 

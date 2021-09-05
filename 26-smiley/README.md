@@ -2,8 +2,8 @@
 
 | High Score | Chars | Match |
 | ---------- | ----- | ----- |
-| 614.65     | 347   | 100%  |
+| 628        | 279   | 100%  |
 
 ## Screenshot
 
-![25-blossom](screenshot.png)
+![26-smiley](screenshot.png)
