@@ -39,7 +39,7 @@
 - [x] [#24 - Switches](24-switches)
 - [x] [#25 - Blossom](25-blossom)
 - [x] [#26 - Smiley](26-smiley)
-- [ ] #27 - Lock Up
+- [x] [#27 - Lock Up](27-lock-up)
 - [ ] #28 - Cups & Balls
 
 ### Battle #5 - Inline
