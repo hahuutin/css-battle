@@ -33,7 +33,7 @@
 
 ### Battle #4 - Display
 
-- [ ] #21 - SitePoint Logo
+- [x] [#21 - SitePoint Logo](21-sitepoint-logo)
 - [ ] #22 - Cloud
 - [ ] #23 - Boxception
 - [ ] #24 - Switches
