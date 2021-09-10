@@ -44,5 +44,5 @@
 
 ### Battle #5 - Inline
 
-- [ ] #29 - Suffocate
+- [x] [#29 - Suffocate](29-suffocate)
 - [ ] #30 - Horizon
