@@ -56,7 +56,7 @@
 
 - [x] [#33 - Birdie](33-birdie)
 - [x] [#34 - Christmas Tree](34-christmas-tree)
-- [ ] #35 - Ice Cream
+- [x] [#35 - Ice Cream](35-ice-cream)
 - [ ] #36 - Interleaved
 - [ ] #37 - Tunnel
 - [ ] #38 - Not Simply Square
