@@ -61,7 +61,7 @@
 - [x] [#37 - Tunnel](37-tunnel)
 - [x] [#38 - Not Simply Square](38-not-simply-square)
 - [x] [#39 - Sunset](39-sunset)
-- [ ] #40 - Letter B
+- [x] [#40 - Letter B](40-letter-b)
 - [ ] #41 - Fox Head
 
 ### Battle #8 - Transition
