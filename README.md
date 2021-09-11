@@ -55,7 +55,7 @@
 ### Battle #7 - Backface
 
 - [x] [#33 - Birdie](33-birdie)
-- [ ] #34 - Christmas Tree
+- [x] [#34 - Christmas Tree](34-christmas-tree)
 - [ ] #35 - Ice Cream
 - [ ] #36 - Interleaved
 - [ ] #37 - Tunnel
