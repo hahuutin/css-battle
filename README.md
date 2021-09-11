@@ -60,7 +60,7 @@
 - [x] [#36 - Interleaved](36-interleaved)
 - [x] [#37 - Tunnel](37-tunnel)
 - [x] [#38 - Not Simply Square](38-not-simply-square)
-- [ ] #39 - Sunset
+- [x] [#39 - Sunset](39-sunset)
 - [ ] #40 - Letter B
 - [ ] #41 - Fox Head
 
