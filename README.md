@@ -49,7 +49,7 @@
 
 ### Battle #6 - Conic
 
-- [ ] #31 - Equals
+- [x] [#31 - Equals](31-equals)
 - [ ] #32 - Band-aid
 
 ### Battle #7 - Backface
