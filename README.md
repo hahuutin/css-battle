@@ -59,7 +59,7 @@
 - [x] [#35 - Ice Cream](35-ice-cream)
 - [x] [#36 - Interleaved](36-interleaved)
 - [x] [#37 - Tunnel](37-tunnel)
-- [ ] #38 - Not Simply Square
+- [x] [#38 - Not Simply Square](38-not-simply-square)
 - [ ] #39 - Sunset
 - [ ] #40 - Letter B
 - [ ] #41 - Fox Head
