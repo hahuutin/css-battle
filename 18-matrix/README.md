@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![18-matrix](screenshot.png)
+![screenshot](screenshot.png)

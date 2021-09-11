@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![17-fidget-spinner](screenshot.png)
+![screenshot](screenshot.png)

@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![21-sitepoint-logo](screenshot.png)
+![screenshot](screenshot.png)

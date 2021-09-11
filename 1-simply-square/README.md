@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![1-simply-square](screenshot.png)
+![screenshot](screenshot.png)

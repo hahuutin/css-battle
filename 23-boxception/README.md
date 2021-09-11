@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![23-boxception](screenshot.png)
+![screenshot](screenshot.png)

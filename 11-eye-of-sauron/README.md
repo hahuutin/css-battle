@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![11-eye-of-sauron](screenshot.png)
+![screenshot](screenshot.png)

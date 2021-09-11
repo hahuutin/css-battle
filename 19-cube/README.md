@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![18-cube](screenshot.png)
+![screenshot](screenshot.png)

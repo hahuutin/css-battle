@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![16-eye-of-the-tiger](screenshot.png)
+![screenshot](screenshot.png)

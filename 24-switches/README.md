@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![24-switches](screenshot.png)
+![screenshot](screenshot.png)

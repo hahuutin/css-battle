@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![14-web-maker-logo](screenshot.png)
+![screenshot](screenshot.png)

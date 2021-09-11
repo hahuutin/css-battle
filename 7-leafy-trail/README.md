@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![7-leafy-trail](screenshot.png)
+![screenshot](screenshot.png)

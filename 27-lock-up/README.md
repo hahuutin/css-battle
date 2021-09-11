@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![27-lock-up](screenshot.png)
+![screenshot](screenshot.png)

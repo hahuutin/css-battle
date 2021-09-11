@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![28-suffocate](screenshot.png)
+![screenshot](screenshot.png)

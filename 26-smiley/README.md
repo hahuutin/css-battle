@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![26-smiley](screenshot.png)
+![screenshot](screenshot.png)

@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![10-cloaked-spirits](screenshot.png)
+![screenshot](screenshot.png)

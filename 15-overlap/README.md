@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![15-overlap](screenshot.png)
+![screenshot](screenshot.png)

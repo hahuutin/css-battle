@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![28-cups-and-balls](screenshot.png)
+![screenshot](screenshot.png)

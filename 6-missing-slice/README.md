@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![6-missing-slice](screenshot.png)
+![screenshot](screenshot.png)

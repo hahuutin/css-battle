@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![12-wiggly-moustache](screenshot.png)
+![screenshot](screenshot.png)

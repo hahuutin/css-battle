@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![13-totally-triangle](screenshot.png)
+![screenshot](screenshot.png)

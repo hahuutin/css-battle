@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![22-cloud](screenshot.png)
+![screenshot](screenshot.png)

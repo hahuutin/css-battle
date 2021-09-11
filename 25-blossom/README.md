@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![25-blossom](screenshot.png)
+![screenshot](screenshot.png)

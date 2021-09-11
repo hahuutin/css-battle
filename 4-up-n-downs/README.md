@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![4-up-n-downs](screenshot.png)
+![screenshot](screenshot.png)

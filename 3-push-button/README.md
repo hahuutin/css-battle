@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![3-push-button](screenshot.png)
+![screenshot](screenshot.png)

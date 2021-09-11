@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![5-acid-rain](screenshot.png)
+![screenshot](screenshot.png)

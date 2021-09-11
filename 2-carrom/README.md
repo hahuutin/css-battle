@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![2-carrom](screenshot.png)
+![screenshot](screenshot.png)

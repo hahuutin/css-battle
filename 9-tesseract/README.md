@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![9-tesseract](screenshot.png)
+![screenshot](screenshot.png)

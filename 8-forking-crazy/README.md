@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![8-forking-crazy](screenshot.png)
+![screenshot](screenshot.png)
