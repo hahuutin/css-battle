@@ -46,3 +46,35 @@
 
 - [x] [#29 - Suffocate](29-suffocate)
 - [x] [#30 - Horizon](30-horizon)
+
+### Battle #6 - Conic
+
+- [ ] #31 - Equals
+- [ ] #32 - Band-aid
+
+### Battle #7 - Backface
+
+- [ ] #33 - Birdie
+- [ ] #34 - Christmas Tree
+- [ ] #35 - Ice Cream
+- [ ] #36 - Interleaved
+- [ ] #37 - Tunnel
+- [ ] #38 - Not Simply Square
+- [ ] #39 - Sunset
+- [ ] #40 - Letter B
+- [ ] #41 - Fox Head
+
+### Battle #8 - Transition
+
+- [ ] #42 - Baby
+- [ ] #43 - Wrench
+- [ ] #44 - Stripes
+
+### Battle #9 - Margin
+
+- [ ] #45 - Margical Tree
+- [ ] #46 - Mountains
+
+### Battle #10 - Block
+
+- [ ] #47 - Corona Virus
