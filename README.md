@@ -58,7 +58,7 @@
 - [x] [#34 - Christmas Tree](34-christmas-tree)
 - [x] [#35 - Ice Cream](35-ice-cream)
 - [x] [#36 - Interleaved](36-interleaved)
-- [ ] #37 - Tunnel
+- [x] [#37 - Tunnel](37-tunnel)
 - [ ] #38 - Not Simply Square
 - [ ] #39 - Sunset
 - [ ] #40 - Letter B
