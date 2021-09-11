@@ -50,7 +50,7 @@
 ### Battle #6 - Conic
 
 - [x] [#31 - Equals](31-equals)
-- [ ] #32 - Band-aid
+- [x] [#32 - Band-aid](32-band-aid)
 
 ### Battle #7 - Backface
 
